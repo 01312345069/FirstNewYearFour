@@ -158,3 +158,13 @@ body {
     margin: 25px;
     padding: 10px;
 }
+
+.footercolor {
+    background: #ece8e4;
+}
+
+.footer-text {
+    text-align: center;
+    padding-bottom: 0.5%;
+    padding-top: 0.5%;
+}
