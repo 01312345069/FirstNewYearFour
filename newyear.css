@@ -69,3 +69,14 @@ body {
 .partyflex {
     display: flex;
 }
+
+.partypalacecolor {
+    /* background-color: red; */
+    margin: 100px;
+    padding: 70px 0;
+    text-align: center;
+    /* text-align: justify; */
+    height: 200px;
+    width: 80%;
+    background: linear-gradient(to bottom, #f1eeec 0%, #ff99cc 100%)
+}
