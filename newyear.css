@@ -1,0 +1,58 @@
+/* common font style */
+body {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    /* color: white; */
+}
+
+/* Welcome Note */
+.think {
+    background: #FFF8F3;
+    background-image: url('img/BannerImage.png');
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+
+    margin: 100px;
+    padding: 100px;
+
+}
+
+.welcome {
+    max-width: 1140px;
+    margin: auto;
+}
+
+.colorRed {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    margin: 10px;
+    padding: 15px;
+}
+
+.about {
+    text-align: center;
+    /* margin-top: 130px; */
+    /* background: #FFF8F3; */
+    border-radius: 10px;
+    padding: 50px 70px;
+    border-radius: 10px;
+
+
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 35px;
+
+
+    .section-description {
+        color: #757575;
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
